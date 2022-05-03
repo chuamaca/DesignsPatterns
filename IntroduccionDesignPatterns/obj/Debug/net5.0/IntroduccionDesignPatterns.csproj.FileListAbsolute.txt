@@ -1,0 +1,16 @@
+D:\Curso Paterns Design\IntroduccionDesignPatterns\bin\Debug\net5.0\IntroduccionDesignPatterns.exe
+D:\Curso Paterns Design\IntroduccionDesignPatterns\bin\Debug\net5.0\IntroduccionDesignPatterns.deps.json
+D:\Curso Paterns Design\IntroduccionDesignPatterns\bin\Debug\net5.0\IntroduccionDesignPatterns.runtimeconfig.json
+D:\Curso Paterns Design\IntroduccionDesignPatterns\bin\Debug\net5.0\IntroduccionDesignPatterns.runtimeconfig.dev.json
+D:\Curso Paterns Design\IntroduccionDesignPatterns\bin\Debug\net5.0\IntroduccionDesignPatterns.dll
+D:\Curso Paterns Design\IntroduccionDesignPatterns\bin\Debug\net5.0\ref\IntroduccionDesignPatterns.dll
+D:\Curso Paterns Design\IntroduccionDesignPatterns\bin\Debug\net5.0\IntroduccionDesignPatterns.pdb
+D:\Curso Paterns Design\IntroduccionDesignPatterns\obj\Debug\net5.0\IntroduccionDesignPatterns.csproj.AssemblyReference.cache
+D:\Curso Paterns Design\IntroduccionDesignPatterns\obj\Debug\net5.0\IntroduccionDesignPatterns.GeneratedMSBuildEditorConfig.editorconfig
+D:\Curso Paterns Design\IntroduccionDesignPatterns\obj\Debug\net5.0\IntroduccionDesignPatterns.AssemblyInfoInputs.cache
+D:\Curso Paterns Design\IntroduccionDesignPatterns\obj\Debug\net5.0\IntroduccionDesignPatterns.AssemblyInfo.cs
+D:\Curso Paterns Design\IntroduccionDesignPatterns\obj\Debug\net5.0\IntroduccionDesignPatterns.csproj.CoreCompileInputs.cache
+D:\Curso Paterns Design\IntroduccionDesignPatterns\obj\Debug\net5.0\IntroduccionDesignPatterns.dll
+D:\Curso Paterns Design\IntroduccionDesignPatterns\obj\Debug\net5.0\ref\IntroduccionDesignPatterns.dll
+D:\Curso Paterns Design\IntroduccionDesignPatterns\obj\Debug\net5.0\IntroduccionDesignPatterns.pdb
+D:\Curso Paterns Design\IntroduccionDesignPatterns\obj\Debug\net5.0\IntroduccionDesignPatterns.genruntimeconfig.cache
