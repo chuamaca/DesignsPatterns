@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "WvfjnEl8WfzORgosv43Zlhb1s86K8aK5N1gSSFlmYRl2vUSWJaut2Q4sFjTkTueASnZeVNzgWSu5DUfB0jf8ag==",
+  "dgSpecHash": "v4pMQdQtw0RPZMPK1r/UOtiGJmqM5DtPbq8xJH936oyImIEw6bzIdr1Dw9j8jrIOSDr46qeWCZPLfRoV4M5IsQ==",
   "success": true,
-  "projectFilePath": "D:\\Curso Paterns Design\\IntroduccionDesignPatterns\\IntroduccionDesignPatterns.csproj",
+  "projectFilePath": "D:\\Curso Paterns Design\\DesignPatterns\\IntroduccionDesignPatterns\\IntroduccionDesignPatterns.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
