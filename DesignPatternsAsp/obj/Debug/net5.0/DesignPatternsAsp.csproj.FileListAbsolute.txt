@@ -39,3 +39,4 @@ D:\Curso Paterns Design\DesignPatterns\DesignPatternsAsp\obj\Debug\net5.0\Design
 D:\Curso Paterns Design\DesignPatterns\DesignPatternsAsp\obj\Debug\net5.0\DesignPatternsAsp.csproj.CopyComplete
 D:\Curso Paterns Design\DesignPatterns\DesignPatternsAsp\bin\Debug\net5.0\Tools.dll
 D:\Curso Paterns Design\DesignPatterns\DesignPatternsAsp\bin\Debug\net5.0\Tools.pdb
+D:\Curso Paterns Design\DesignPatterns\DesignPatternsAsp\obj\Debug\net5.0\staticwebassets\DesignPatternsAsp.StaticWebAssets.xml
